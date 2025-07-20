@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://deepseek.com",
           "description": "好用的国产模型",
           "icon": "/sitelogo/deepseek.com.ico"
+        },
+        {
+          "id": "site-1753030133490",
+          "name": "Gemini-balance",
+          "url": "https://gemini-balance.mrsnake.fun/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -481,6 +488,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "Snake导航",
-  "_fileSha": "13033ef8146e5277c2c80cdda9f5987c0a8cdc88"
+  "title": "Snake导航"
 }
